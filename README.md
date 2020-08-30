@@ -14,5 +14,7 @@
 
 + [最低成本实现Windows Hello面部解锁](https://www.coolapk.com/feed/20656524?shareKey=NTUwMGFhMmQyNTk3NWY0MDg0NWY)
 + [如何制作一个兼顾实用与美观的Windows Hello模块](https://www.coolapk.com/feed/21218468?shareKey=ODcyZmVjMzYwMzhhNWY0YTFmMzc)
++ [60元 用上 Windows hello 人脸](https://post.smzdm.com/p/a5k4m4qx/)
++ [Windows - 30元搞定Windows Hello人脸解锁](https://blog.csdn.net/weixin_42118716/article/details/108219379)
 
 **在收到模块之后会进行测试与更新，敬请期待**
